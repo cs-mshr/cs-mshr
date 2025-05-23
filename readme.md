@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs-mshr&label=Profile%20views&color=0e75b6&style=flat" alt="cs-mshr" /> </p>
 
-- 🔭 I’m currently working on [Express Vault (Parcel Delivery Project)](https://github.com/cs-mshr/ExpressVault)
+- 🔭 I’m currently working on [Algo Trading Bots)](https://github.com/cs-mshr/ExpressVault)
 
 - 🌱 I’m currently learning **Backend Development(springboot, SQL datbases, Redis etc)**
 
